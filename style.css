@@ -411,7 +411,7 @@ div.gabri10 {
 
     #slider img {
         width: 1250px;
-         height: 533px;
+         height: 503px;
          margin-left: %;
     }
     #slider.img-35{
@@ -427,7 +427,7 @@ div.gabri10 {
     }
      img.img-15 {
         position: relative;
-        top: -536.45px;
+        top: -506.45px;
         width: 1850px;
         height: 533px;
         margin-left: 0%;
@@ -437,12 +437,12 @@ div.gabri10 {
          position: relative;
          width: 1850px;
          height: 533px;
-         top: -1073.45px;
+         top: -1013.45px;
          margin-left: 0%;
     }
     img.img-2 { /*logo Gabriel Teles png**/
         position: absolute;
-        margin-top:-65% ;
+        margin-top:-45% ;
         margin-left: 0%;
     
     }
@@ -482,7 +482,7 @@ div.gabri10 {
             div.botton {
            
                 margin-left: 7%;
-                margin-top: 19%;
+                margin-top: 39%;
                 padding-top:  2px;
                 width: 400px;
             }
