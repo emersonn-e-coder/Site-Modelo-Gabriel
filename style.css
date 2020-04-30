@@ -5,6 +5,7 @@ body {
     height: 100%;
     overflow: auto;
     background: rgb(17,17,17);
+    background-attachment: fixed;
    
    }
    #slider img {
