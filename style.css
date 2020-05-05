@@ -563,7 +563,21 @@ div.gabri10 {
                    border-top:1px solid #cecece
                 }
 }
+/*===================================================================*/
+@media(max-width:320px) and (orientation:portrait){ /*iPhone5 */
+    img.img-20{ margin-top: -632%; margin-left: -135%;}
+    img.img-10{ margin-left: -178.5%;}
+  
+    div.footer {
+        margin-top: 490%;}
+}
+/*==================================================================*/
+@media(max-width:568px) and (orientation:landscape){ 
 
+    div#texto { margin-top: -1345px;}
+    div.footer { margin-top: 20%;}
+   }
+/*=====================================================*/
 
 
 
