@@ -578,6 +578,364 @@ div.gabri10 {
     div.footer { margin-top: 20%;}
    }
 /*=====================================================*/
+@media(max-width:375px) and (orientation:portrait){ /*iPhone 6,7,8*/
+
+    #slider img {
+        width: 1250px;
+         height: 533px;
+         margin-left: %;
+    }
+    
+    #slider.img-35{
+        top: 500px;
+        position: relative;
+        width: 2250px;
+        height: 533px;
+    }
+    img.img-35{
+        margin-left: 0%;
+        width: 1850px;
+        height: 533px;
+    }
+     img.img-15 {
+        position: relative;
+        top: -536.45px;
+        width: 1850px;
+        height: 533px;
+        margin-left: 0%;
+         
+     }
+     img.img-25 {
+         position: relative;
+         width: 1850px;
+         height: 533px;
+         top: -1073.45px;
+         margin-left: 0%;
+    }
+    img.img-2 { /*logo Gabriel Teles png**/
+        position: relative;
+        margin-top:-40% ;
+        margin-left: 8%;
+    
+    }
+    div#texto {
+        
+        position: absolute;
+        margin-left: 10%;
+        margin-top: -1400px;
+    }
+    nav { 
+        width: 36%;
+        width: calc(80.47% + 25px);
+        width: 1200px;
+        height: 150px;
+       
+        margin-left: -13px;
+        margin-top: 60%;
+        margin-bottom: 1px; 
+        position: absolute;
+        
+    
+        }
+        ul li a {
+            float: left;
+            text-decoration: none;
+            text-transform: uppercase;
+            text-align: center;
+            border-right:px solid #111; 
+            padding: 47px 57px;  
+            color: #cecece;
+            background: rgb(48, 47, 47);
+            font:35pt sans-serif;
+            border-top-left-radius: 70%;
+            border-bottom-right-radius: 50% ;
+            -webkit-transition: .4s ease-in-out;
+           
+        }
+        div.botton {
+           
+            margin-left: 7%;
+            margin-top: 2%;
+            padding-top:  2px;
+            width: 400px;
+        }
+        img.img-3 {/* botton face*/
+            background-color: rgb(0, 0, 0);
+            border-top-left-radius: 50%;
+            border-bottom-right-radius: 40% ;
+            width: 100px;
+            height: 100px;
+            padding: 15px 15px;
+        }
+        img.img-4 {/*botton insta*/
+            background-color: rgb(0, 0, 0);
+            border-top-left-radius: 50%;
+            border-bottom-right-radius: 40% ;
+            width: 100px;
+            height: 100px;
+            padding: 15px 15px;
+        }
+        div.corpo {
+            width: 1210px;
+            height: 2900px;
+                /*background: rgb(7,7,7);*/
+            margin-left: 5%;
+            margin-top: -250%;
+            box-shadow: 0 px px px rgb(32, 32, 32);
+            }
+            h3 {
+                color: #cecece;
+                margin-top: 76px;
+                text-align: center;
+                font: 28pt sans-serif;
+            }
+            p.p-1 {
+                color: #cecece;
+                margin-top: 46px;
+               margin-left: 22%;
+                font: 28pt sans-serif;
+               
+            }
+            
+            p {
+                color: #cecece;
+                margin-top: 5px;
+                font: 18pt sans-serif;
+            }
+           
+            img.img-10 {/*fotos das extremidades*/
+                position: relative; text-align: center;
+                width: 750px;
+                height: 1125px;
+                margin-top: -2%;
+                margin-left: -180%;
+                box-shadow: 0px 0px 5px 5px #08080a;
+                -webkit-transition: .4s ease-in-out;
+            }
+            div.gabri20 {
+                margin-left: 55%;
+                margin-top: -37.5%;
+            }
+            img.img-20 {/*foto das extremidades*/
+                position: absolute;
+                width: 750px;
+                height: 1125px;
+                margin-top: -560%;
+                margin-left: -120%;
+                box-shadow: 0px 0px 5px 5px #08080a;
+                -webkit-transition: .4s ease-in-out;
+            }
+            div.gabri30 { /*foto de centro*/
+                margin-left: 38%;
+                margin-top: 15%;
+               
+            }
+            img.img-30 {
+                position: relative;
+                width: 750px;
+                height: 1125px;
+                margin-top: 190%;
+                margin-left: -30%;
+                box-shadow: 0px 0px 5px 5px #08080a;
+                -webkit-transition: 0.4s ease-in-out;
+               
+            }
+div.gabri10 {
+            margin-left: 71%;
+            margin-top: 57.6%;
+        }
+        div.footer {
+            position: relative;
+            background-color: #000000;
+            margin-top: 440%;
+            width: 1250px;
+            height: 475px;
+            
+            
+        }
+        div.botton-footer {
+            position: relative;
+           
+          width: 400px;
+          height: 180px;
+          text-align: center;
+          padding: 22px;
+          margin-left: 33%;
+          margin-top: -45px;
+          
+        }
+        h5 {
+            color: #cecece;
+            padding-top:2% ;
+            margin-left: 17.5%;
+           font: 30pt sans-serif;
+           width: 850px;
+           text-align: center;
+           height: -25px;
+           margin-top:110px;
+           border-top:1px solid #cecece
+        }
+
+}
+/*==============================================================*/
+@media(max-width:667px) and (orientation:landscape){
+    #slider img {
+        position: relative;
+        width: 1250px;
+         height: 503px;
+         margin-left: %;
+    }
+    #slider.img-35{
+        top: 500px;
+        position: relative;
+        width: 2250px;
+        height: 533px;
+    }
+    img.img-35{
+        position: relative;
+        margin-left: 0%;
+        width: 1850px;
+        height: 533px;
+    }
+     img.img-15 {
+        position: relative;
+        top: -506.45px;
+        width: 1850px;
+        height: 533px;
+        margin-left: 0%;
+         
+     }
+     img.img-25 {
+         position: relative;
+         width: 1850px;
+         height: 533px;
+         top: -1013.45px;
+         margin-left: 0%;
+    }
+    
+    img.img-2 { /*logo Gabriel Teles png**/
+        position: absolute;
+        margin-top:-45% ;
+        margin-left: 0%;
+    
+    }
+    div#texto {
+        position: absolute;
+        margin-left: 10%;
+        margin-top: -210%;
+        }
+        nav { 
+            width: 36%;
+            width: calc(80.47% + 25px);
+            width: 1200px;
+            height: 150px;
+           
+            margin-left: -45px; 
+            margin-top: 95%;
+            margin-bottom: 1px;
+            position: absolute;
+            
+        
+            }
+            ul li a {
+                float: left;
+                text-decoration: none;
+                text-transform: uppercase;
+                text-align: center;
+                border-right:px solid #111; 
+                padding: 31px 57px;  
+                color: #cecece;
+                background: rgb(48, 47, 47);
+                font:35pt sans-serif;
+                border-top-left-radius: 70%;
+                border-bottom-right-radius: 50% ;
+                -webkit-transition: .4s ease-in-out;
+               
+            }
+            div.botton {
+           position:relative;
+                margin-left: 7%;
+                margin-top: 39%;
+                padding-top:  2px;
+                width: 400px;
+            }
+            img.img-3 {/* botton face*/
+                background-color: rgb(0, 0, 0);
+                border-top-left-radius: 50%;
+                border-bottom-right-radius: 40% ;
+                width: 100px;
+                height: 100px;
+                padding: 15px 15px;
+            }
+            img.img-4 {/*botton insta*/
+                background-color: rgb(0, 0, 0);
+                border-top-left-radius: 50%;
+                border-bottom-right-radius: 40% ;
+                width: 100px;
+                height: 100px;
+                padding: 15px 15px;
+            }
+            div.corpo {
+                position: absolute;
+                width: 1210px;
+                height: 700px;
+                    /*background: rgb(7,7,7);*/
+                margin-left: 4%;
+                margin-top: -150%;
+                box-shadow: 0 px px px rgb(32, 32, 32);
+                }
+                h3 {
+                    color: #cecece;
+                    margin-top: 156px;
+                    text-align: center;
+                    font: 28pt sans-serif;
+                }
+                p.p-1 {
+                    color: #cecece;
+                    margin-top: 46px;
+                   margin-left: 22%;
+                    font: 28pt sans-serif;
+                   
+                }
+                
+                p {
+                    color: #cecece;
+                    margin-top: 5px;
+                    font: 18pt sans-serif;
+                }
+                div.footer {
+                    position: relative;
+                    background-color: #000000;
+                    margin-top: -1%;
+                    width: 1250px;
+                    height: 475px;
+                    
+                    
+                }
+                div.botton-footer {
+                    position: relative;
+                   
+                  width: 400px;
+                  height: 180px;
+                  text-align: center;
+                  padding: 22px;
+                  margin-left: 33%;
+                  margin-top: -45px;
+                  
+                }
+                h5 {
+                    color: #cecece;
+                    padding-top:2% ;
+                    margin-left: 17.5%;
+                   font: 20pt sans-serif;
+                   width: 850px;
+                   text-align: center;
+                   height: -25px;
+                   margin-top:130px;
+                   border-top:1px solid #cecece
+                }
+}
+/*===================================================================================*/
 
 
 
