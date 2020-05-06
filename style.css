@@ -938,7 +938,7 @@ div.gabri10 {
 }
 /*==================================================================*/
 @media(max-width:568px) and (orientation:landscape){ 
-
+    nav {margin-top:80%}
     div#texto { margin-top: -1345px;}
     div.footer { margin-top: 20%;}
    }
